@@ -16,7 +16,8 @@ Apple’s Face ID allows users to unlock their iPhones using facial recognition.
 
 ## Example 2: Law Enforcement Surveillance
 Police departments use facial recognition to identify suspects in videos or images.
-(images/Tecnología%20facial%20en%20acción.png)
+<img width="1121" height="561" alt="image" src="https://github.com/user-attachments/assets/bb7db1b5-53bc-4b29-bf12-fdfa44989d36" />
+
 **Benefits:**  
 - Helps solve cases faster  
 - Supports missing-person investigations  
